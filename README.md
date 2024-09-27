@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-I'm currently learning android development 
+Android development 
 
 
 ## 🌐 Socials:
