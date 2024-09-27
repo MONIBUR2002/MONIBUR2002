@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Android development 
+Android developr
 
 
 ## 🌐 Socials:
